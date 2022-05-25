@@ -1,0 +1,10 @@
+.contador__titulo {
+    font-weight: 400;
+}
+
+.contador__area {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+}

@@ -1,0 +1,9 @@
+.list__area {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-items: start;
+    align-items: baseline;
+    align-content: center;
+    margin: 0;
+    padding: 0;
+}
